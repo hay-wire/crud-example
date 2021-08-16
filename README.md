@@ -12,7 +12,7 @@ This repository is a part of CRUD tutorial video to learn basics of MongoDB and 
 ### APIs
 You can find the corresponding REST APIs [Postman](https://www.postman.com/) dump [here](https://www.getpostman.com/collections/2b641e034320cd1e2407).
  1. Make sure you have [Postman](https://www.postman.com/) installed in your machine.
- 1. Import the dump shared above into your Postman. Check this guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) if you don't know how to do this.
+ 1. Import the dump shared above into your Postman. Check [this guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) if you don't know how to do this.
  1. Open `crud-example` collection in Postman and play with the APIs.
 
 
